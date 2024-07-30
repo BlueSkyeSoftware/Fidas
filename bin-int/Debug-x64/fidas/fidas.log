@@ -1,4 +1,0 @@
-﻿  application.cpp
-LINK : warning LNK4076: invalid incremental status file '\\vmware-host\Shared Folders\Desktop\fidas\bin-int\Debug-x64\fidas\fidas.ilk' (which will be deleted); linking nonincrementally
-     Creating library \\vmware-host\Shared Folders\Desktop\fidas\bin\Debug-x64\fidas\fidas.lib and object \\vmware-host\Shared Folders\Desktop\fidas\bin\Debug-x64\fidas\fidas.exp
-  fidas.vcxproj -> \\vmware-host\Shared Folders\Desktop\fidas\bin\Debug-x64\fidas\fidas.dll
