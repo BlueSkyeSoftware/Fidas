@@ -1,0 +1,3 @@
+[submodule "fidas/vendor/spdlog"]
+	path = fidas/vendor/spdlog
+	url = https://github.com/gabime/spdlog
