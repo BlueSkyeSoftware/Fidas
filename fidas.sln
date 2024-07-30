@@ -3,24 +3,24 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{9384E0B0-2111-4069-BE4D-50E922A34EB3}"
+EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fidas", "fidas\fidas.vcxproj", "{38C1549B-5578-4765-AD57-D7339F4B092F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
-		Debug|x86 = Debug|x86
 		Release|x64 = Release|x64
-		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{38C1549B-5578-4765-AD57-D7339F4B092F}.Debug|x64.ActiveCfg = Debug|x64
 		{38C1549B-5578-4765-AD57-D7339F4B092F}.Debug|x64.Build.0 = Debug|x64
-		{38C1549B-5578-4765-AD57-D7339F4B092F}.Debug|x86.ActiveCfg = Debug|Win32
-		{38C1549B-5578-4765-AD57-D7339F4B092F}.Debug|x86.Build.0 = Debug|Win32
 		{38C1549B-5578-4765-AD57-D7339F4B092F}.Release|x64.ActiveCfg = Release|x64
 		{38C1549B-5578-4765-AD57-D7339F4B092F}.Release|x64.Build.0 = Release|x64
-		{38C1549B-5578-4765-AD57-D7339F4B092F}.Release|x86.ActiveCfg = Release|Win32
-		{38C1549B-5578-4765-AD57-D7339F4B092F}.Release|x86.Build.0 = Release|Win32
+		{9384E0B0-2111-4069-BE4D-50E922A34EB3}.Debug|x64.ActiveCfg = Debug|x64
+		{9384E0B0-2111-4069-BE4D-50E922A34EB3}.Debug|x64.Build.0 = Debug|x64
+		{9384E0B0-2111-4069-BE4D-50E922A34EB3}.Release|x64.ActiveCfg = Release|x64
+		{9384E0B0-2111-4069-BE4D-50E922A34EB3}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

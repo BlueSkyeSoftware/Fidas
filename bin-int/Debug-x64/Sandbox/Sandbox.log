@@ -1,0 +1,3 @@
+﻿  sandboxApp.cpp
+LINK : warning LNK4076: invalid incremental status file '\\vmware-host\Shared Folders\Desktop\fidas\bin-int\Debug-x64\Sandbox\Sandbox.ilk' (which will be deleted); linking nonincrementally
+  Sandbox.vcxproj -> \\vmware-host\Shared Folders\Desktop\fidas\bin\Debug-x64\Sandbox\Sandbox.exe
